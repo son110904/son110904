@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sơn
 ===========================================================================================================================
-I've been learning code in 5 years, started with C and now C++ and Java. I might learn Go in 2025
+I've been learning code in 5 years, started with C and now C++ and Java. I learning Go in 2025
 * 🌍  I'm based in Hanoi
 * 🤝  I'm open to collaborating on everything related to AI
 *  🔭 I'm currently a sophomore IT student
-*  🌱 Learning about app, OS, networking at the moment
+*  
 
 ### Skills
 
